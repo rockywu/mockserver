@@ -34,7 +34,7 @@
                                     <span class="common-required">*</span>{{ LN.system.init.database }}
                                 </label>
                                 <div class="col-sm-4">
-                                    <input type="text" name="database" maxlength="100" value="mockserver2" class="form-control validate[required]" placeholder=""/>
+                                    <input type="text" name="database" maxlength="100" value="mockserver" class="form-control validate[required]" placeholder=""/>
                                 </div>
                             </div>
                         </div>
